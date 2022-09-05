@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Kenneth
+=======
+manager: Deborah
+>>>>>>> coflict-1
 
 coach : Grace
 
